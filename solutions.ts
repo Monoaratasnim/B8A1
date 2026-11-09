@@ -81,5 +81,3 @@ function validateAgeAsync(age: number): Promise<string> {
     }, 1000);
   });
 }
-
-export {};
